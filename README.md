@@ -7,7 +7,7 @@ This dataset contains sales data on different items at multiple outlets of a maj
 3) What are the top 3 highest performing and lowest performing stores in the sample.
 
 ## Variable selection for Multi/Mixed Level Analysis
-<img src="images/Variables.png" width="900" height="500">
+<img src="images/Variables.png" width="900" height="400">
 
 ## Data Visualizations
 <img src="images/Visualizations.png" width="900" height="700">
