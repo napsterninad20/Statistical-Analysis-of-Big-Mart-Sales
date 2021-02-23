@@ -6,7 +6,8 @@ This dataset contains sales data on different items at multiple outlets of a maj
 2) What type of city will return him the best sales: Tier 1, 2 or 3. 
 3) What are the top 3 highest performing and lowest performing stores in the sample.
 
-## 
+## Variable selection for Multi/Mixed Level Analysis
+<img src="images/variables.png" width="700" height="600">
 
 ## Data Visualizations
 <img src="images/Visualizations.png" width="900" height="700">
