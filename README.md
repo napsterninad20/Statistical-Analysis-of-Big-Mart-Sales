@@ -14,6 +14,8 @@ After looking and understanding the data propeerly,
 - There might be some variables which need to be used as a factor and some of them need to be used as a numeric, so those need to be converted into their required datatype.
 - By using, some extra features could be created as a discount percentage, week, month of the transaction. These kinds of variables could be use in analysis and could give detailed, significant results for this retain data.
 
+## Data Visualizations
+<img src="images/EDA.png" width="900" height="300">
 
 
 
