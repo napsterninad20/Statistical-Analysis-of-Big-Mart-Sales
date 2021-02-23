@@ -25,9 +25,21 @@ Attributes of the dataset:
 <img src="images/Variables.png" width="900" height="400">
 
 ## Data Visualizations
-<img src="images/Visualizations.png" width="900" height="700">
+<img src="images/Visualizations.png" width="900" height="650">
 
-## 
+## Model Buidling and Results
+1) What type of outlet will return him the best sales: Grocery store or Supermarket Type 1, 2, or 3.
+<img src="images/1.png" width="900" height="400">
+**Interpreatation:** After looking at the outputs here and analyzing the results, I would suggest my client to consider franchising with the outlet type of “Suptermarket 3”. Because as I add those random effects values of each type of outlet in average block, I am getting maximum sales at Supermarket 3. It will get the maximum sales based in this analysis.
 
+2) What type of city will return him the best sales: Tier 1, 2 or 3. 
+<img src="images/2.png" width="900" height="400">
+**Interpreatation:** After looking at the outputs here and analysing the results, I would say that city from “Tier 2” could get the maximum sales. As I those random effects values of each type of city in average block, city from “Tier 2” can get the maximum sales to business owner.
+
+3) What are the top 3 highest performing and lowest performing stores in the sample.
+<img src="images/3.png" width="900" height="400">
+**Interpreatation:** After looking the outputs here and analyzing the results I would say rank outlet as below:
+TOP 3: 1) OUT027, 2) OUT017, 3) OUT035
+BOTTOM 3: 10) OUT019, 9) OUT010, 8) OUT018
 
 
