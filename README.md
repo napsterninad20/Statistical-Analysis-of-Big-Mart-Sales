@@ -9,7 +9,7 @@ This dataset contains sales data on different items at multiple outlets of a maj
 ## 
 
 ## Data Visualizations
-<img src="images/Visualizations.png" width="900" height="800">
+<img src="images/Visualizations.png" width="900" height="700">
 
 ## 
 
