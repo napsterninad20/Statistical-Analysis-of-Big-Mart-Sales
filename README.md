@@ -7,7 +7,7 @@ This dataset contains sales data on different items at multiple outlets of a maj
 3) What are the top 3 highest performing and lowest performing stores in the sample.
 
 ## Action plan for the problem statement
-After looking and understanding the data propeerly,
+After looking and understanding the data properly,
 - There are three different database tables in the spreadsheet. First of all, those database tables should be merged to have a single table to work on.
 - As this analysis is only for food products, ‘ORAL HYGIENE PRODUCTS’ and all the transactions associated with those products should be dopped.
 - After the above steps, NA values should be removed. NA values could be removed as enough data is available to perform an analysis for significant result.
@@ -16,6 +16,8 @@ After looking and understanding the data propeerly,
 
 ## Data Visualizations
 <img src="images/EDA.png" width="900" height="300">
+
+## 
 
 
 
